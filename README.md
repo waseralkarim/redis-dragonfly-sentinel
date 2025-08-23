@@ -53,7 +53,8 @@ To check the status of the instance, run:
 kubectl describe dragonflies.dragonflydb.io dragonfly-sample
 ```
 
-![image.png](attachment:c73b1f1a-9e53-42f0-ae26-40e6b0ce910f:image.png)
+<img width="1306" height="721" alt="image (1)" src="https://github.com/user-attachments/assets/8b37ed81-5b5d-4ba2-9924-517e4c5c6686" />
+
 
 Connect to the master instance of the service at:
 
