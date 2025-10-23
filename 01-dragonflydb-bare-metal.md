@@ -4,7 +4,8 @@ In the fast-paced realm of modern data management, where speed, scalability, and
 
 In this post, we will deploy Dragonfly in replication mode, utilizing Dragonfly itself and Redis Sentinel as the high-availability solution.
 
-![](https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fpdl8i0m7o1m9rwlhdiwe.png)
+<img width="879" height="435" alt="image" src="https://github.com/user-attachments/assets/f4381d5e-d32f-4f62-add4-1827c8e181e6" />
+
 
 ## **Prerequisites**
 
