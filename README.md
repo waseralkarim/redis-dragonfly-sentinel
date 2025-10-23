@@ -16,3 +16,8 @@ Redis Sentinel is a distributed system designed to provide high availability for
 
 1. [DragonflyDB + Sentinel Bare-Metal Setup](01-dragonflydb-bare-metal.md)
 2. [DragonflyDB + Sentinel Kubernetes Setup](02-dragonflydb-kubernetes.md)
+3. [Redis + Sentinel Bare-Metal Setup](02-dragonflydb-kubernetes.md)
+
+##  Feedback is very much appreciated
+
+Based on the feedback this repo will be updated. Feel free to contribute or use this for your own study!
